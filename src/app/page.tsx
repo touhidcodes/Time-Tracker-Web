@@ -95,7 +95,6 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
-        <div> Test para</div>
       </footer>
     </div>
   );
